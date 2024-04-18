@@ -1,6 +1,6 @@
 # Exercism C Track
 
-![https://github.com/exercism/c/actions/workflows/test.yml/badge.svg](https://github.com/exercism/c/actions)
+[![Build Status](https://github.com/exercism/c/actions/workflows/test.yml/badge.svg)](https://github.com/exercism/c/actions)
 
 Exercism problems in C
 
