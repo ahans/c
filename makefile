@@ -95,7 +95,7 @@ clean:
 .PHONY: help
 help:
 	@echo "Available targets:"
-	@echo "  all            - Build and test all practice exercises (default)"
+	@echo "  all            - Build and test all exercises (default)"
 	@echo "  <slug>         - Build and test a specific exercise given by its slug"
 	@echo "  clean          - Remove all build artifacts"
 	@echo "  list-practice  - List all practice exercises"
